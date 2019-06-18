@@ -1,0 +1,14 @@
+The data was preprocessed into specific pickle files 
+and our code runs on the same pickle file inputs.
+
+Since the pickled files were too large too attach, we have
+skipped sending them and will show them directly at the 
+demonstration.
+
+Codes for LR (ZeroHidden.py) 
+and 
+Greater than 1 hidden layers (GT1Hidden.py)
+are attached.
+
+Also, attached is a report which shows cost vs iteration
+and confusion matrix for each configuration of NN we tested.
